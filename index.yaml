@@ -3,12 +3,11 @@ entries:
   michart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-20T12:25:49.050857791+01:00"
+    created: "2023-02-21T15:48:54.642072767+01:00"
     description: A Helm chart for Kubernetes
-    digest: ca73154b630c3e02ceab83dd9c829b03dea2d75c47a478f74e4c337021458deb
+    digest: e86d59f7e6dfafd02abefd4bf090897e9dbcb7b8f10a8b1250eb1eb6f8f0562e
     name: michart
-    type: application
     urls:
-    - michart-0.1.0.tgz
+    - https://github.com/obarberalda/helmCharts/releases/download/michart-0.1.0/michart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-02-20T12:25:49.050184539+01:00"
+generated: "2023-02-21T15:48:54.249150326+01:00"
